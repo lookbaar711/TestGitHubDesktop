@@ -3,3 +3,4 @@ readme 10 May 2019 edit
 - add file gallery.html
 - add file general.html
 - add file login.html
+- add file googlemaps.html
